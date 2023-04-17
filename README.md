@@ -24,13 +24,15 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
+![Screenshot 2023-04-17 at 02-06-34 Frontend Mentor Interactive rating component](https://user-images.githubusercontent.com/106234779/232383863-9d1bc057-04e3-4a06-8bbd-53a8025be896.png)
 
-![](./screenshot.jpg)
+![Screenshot 2023-04-17 at 02-07-11 Frontend Mentor Interactive rating component](https://user-images.githubusercontent.com/106234779/232383889-9f7d161b-97b0-40b7-86ef-d61d2a19d101.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/OliveiraRony/interactive-rating-component-main)
+- Live Site URL: [Vercel](https://interactive-rating-component-main-ecru.vercel.app/)
 
 ## My process
 
