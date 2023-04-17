@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/OliveiraRony/interactive-rating-component-main](Github-repo)
+- Solution URL: [Github](https://github.com/OliveiraRony/interactive-rating-component-main)
 - Live Site URL: [https://interactive-rating-component-main-ecru.vercel.app/](Vercel)
 
 ## My process
