@@ -72,8 +72,7 @@ main p {
 .ratings li:hover {
   background-color: hsl(var(--light-grey-hsl));
   color: hsl(var(--white-hsl));
-  transition: ease-in-out .3s;
-
+  transition: ease-in-out 0.3s;
 }
 
 #submit-button {
@@ -144,17 +143,6 @@ main p {
 
 .hidden {
   display: none;
-}
-
-.attribution {
-  color: #fff;
-  font-size: 11px;
-  text-align: center;
-  margin-top: 1rem;
-}
-
-.attribution a {
-  color: hsl(228, 100%, 70%);
 }
 
 @media (min-width: 420px) {
