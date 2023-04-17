@@ -63,7 +63,7 @@ main p {
   color: hsl(var(--light-grey-hsl));
 }
 
-.ratings li {
+.ratings .rating-button {
   cursor: pointer;
   padding-top: 2px;
   user-select: none;
