@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/OliveiraRony/interactive-rating-component-main)
-- Live Site URL: [https://interactive-rating-component-main-ecru.vercel.app/](Vercel)
+- Live Site URL: [Vercel](https://interactive-rating-component-main-ecru.vercel.app/)
 
 ## My process
 
